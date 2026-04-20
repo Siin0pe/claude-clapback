@@ -10,10 +10,6 @@
 ## 🎬 Demo
 
 <p align="center">
-  <img src="./docs/demo.gif" alt="divide 10 by 0 → how_dare" width="500" />
-</p>
-
-<p align="center">
   <img src="./docs/demo2.gif" alt="spawn a random gif" width="500" />
 </p>
 
