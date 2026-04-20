@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "clapback",
+  "owner": {
+    "name": "Siin0pe",
+    "email": "moijesui2enmoi@gmail.com"
+  },
+  "metadata": {
+    "description": "Claude Code marketplace: the clapback plugin — Claude clowns you (gently) with sarcastic reaction GIFs popped up on your screen.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "clapback",
+      "source": "./plugins/clapback",
+      "description": "When your prompt is broken, Claude pops a reaction GIF in a small borderless window + a dry one-liner. Multilingual, cross-platform Tkinter popup, 14 emotion categories, 700+ gifs.",
+      "version": "1.0.0",
+      "category": "fun",
+      "tags": ["humor", "reactions", "gifs", "terminal", "mcp", "skill"],
+      "strict": false
+    }
+  ]
+}

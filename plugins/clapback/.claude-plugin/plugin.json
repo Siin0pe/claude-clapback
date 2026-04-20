@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "clapback",
+  "version": "1.0.0",
+  "description": "Claude clowns broken prompts with a sarcastic reaction GIF popped up in a small always-on-top window + a dry one-liner. Multilingual. Never mean to the person.",
+  "author": {
+    "name": "Siin0pe",
+    "email": "moijesui2enmoi@gmail.com"
+  },
+  "homepage": "https://github.com/Siin0pe/claude-clapback",
+  "license": "MIT",
+  "keywords": ["humor", "gif", "reaction", "sarcasm", "popup", "tkinter"],
+  "mcpServers": {
+    "clapback": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--script",
+        "${CLAUDE_PLUGIN_ROOT}/mcp/server.py"
+      ]
+    }
+  }
+}
