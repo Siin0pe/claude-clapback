@@ -1,7 +1,7 @@
 # 🎭 Claude Clapback: Clowns your broken prompts
 
 <p align="center">
-  <img src="./docs/banner.jpg" alt="clapback banner" width="600" />
+  <img src="./docs/banner.jpg" alt="clapback banner"/>
 </p>
 
 > 🤡 Claude clowns your broken prompts with a sarcastic reaction GIF popup + a dry one-liner.
@@ -10,7 +10,7 @@
 ## 🎬 Demo
 
 <p align="center">
-  <img src="./docs/demo2.gif" alt="spawn a random gif" width="500" />
+  <img src="./docs/demo2.gif" alt="spawn a random gif"/>
 </p>
 
 ## ⚡ Install
